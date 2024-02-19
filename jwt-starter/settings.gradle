@@ -1,0 +1,5 @@
+rootProject.name = 'jwt-starter'
+include 'backend'
+include 'auth-server'
+include 'auth-server'
+
